@@ -18,7 +18,7 @@ const Research = () => {
       fullAbstract: "The digital marketplace ecosystem has fundamentally transformed consumer behavior, creating complex patterns that traditional analytical methods struggle to capture. This research addresses the critical need for accurate consumer behavior prediction in digital environments by developing an innovative machine learning framework. Our methodology integrates multiple data sources including transaction histories, browsing patterns, demographic information, and temporal purchasing cycles. The ensemble model combines XGBoost for structured data processing, LSTM networks for sequential pattern recognition, and attention mechanisms for feature importance weighting. Through rigorous testing on real-world datasets spanning 18 months of consumer activity, our approach demonstrated superior performance across multiple metrics including precision (0.89), recall (0.85), and AUC-ROC (0.92). The implications extend beyond academic research, providing practical frameworks for businesses to optimize marketing spend, improve customer segmentation, and enhance user experience personalization.",
       citations: 15,
       keywords: ["Machine Learning", "Consumer Behavior", "E-commerce", "Predictive Analytics", "Customer Segmentation"],
-      authors: ["Ben Dover", "Dr. Sarah Johnson", "Prof. Michael Chen"],
+      authors: ["Liz Mathews", "Dr. Sarah Johnson", "Prof. Michael Chen"],
       doi: "10.1016/j.ijba.2023.100456",
       pages: "45-62",
       coAuthors: 2
@@ -34,7 +34,7 @@ const Research = () => {
       fullAbstract: "Financial decision-making increasingly relies on the rapid processing and interpretation of complex datasets. This study investigates how visualization design affects cognitive processing, decision accuracy, and time-to-insight in professional financial contexts. We conducted randomized controlled trials with 200 certified financial analysts from Goldman Sachs, Morgan Stanley, and JP Morgan Chase. Participants analyzed identical datasets using different visualization approaches while we measured decision accuracy, confidence levels, cognitive load, and completion time. Our findings reveal that interactive dashboards with hierarchical drill-down capabilities reduced analysis time by 30% compared to static charts, while maintaining 95% accuracy rates. Surprisingly, 3D visualizations and AR interfaces showed no significant improvement over well-designed 2D interactive charts. AI-assisted visual narratives proved most effective for risk assessment scenarios, improving analyst confidence by 25%. These findings have direct implications for fintech product design and financial software development.",
       citations: 8,
       keywords: ["Data Visualization", "Financial Analytics", "Decision Science", "Human-Computer Interaction", "Cognitive Load"],
-      authors: ["Ben Dover", "Dr. Emily Rodriguez", "Prof. David Kim", "Dr. Lisa Wang"],
+      authors: ["Liz Mathews", "Dr. Emily Rodriguez", "Prof. David Kim", "Dr. Lisa Wang"],
       doi: "10.1145/dsbi.2023.3456789",
       pages: "128-145",
       coAuthors: 3
@@ -50,7 +50,7 @@ const Research = () => {
       fullAbstract: "The modern digital ecosystem faces an unprecedented challenge: delivering personalized, intelligent experiences while respecting user privacy and regulatory requirements. This research presents a comprehensive framework for privacy-preserving analytics that enables meaningful insights generation without exposing individual user data. Our methodology integrates three core privacy technologies: (1) Differential privacy for query result protection, (2) Federated learning for distributed model training, and (3) Homomorphic encryption for computation on encrypted data. We validate this framework through three extensive case studies at Apple, covering recommendation systems serving 1.8B users, behavioral analytics across iOS ecosystem, and predictive maintenance for hardware products. Performance evaluation demonstrates that our privacy-preserving approaches maintain 85-92% statistical utility compared to traditional methods while providing epsilon-differential privacy guarantees with ε < 1. The framework successfully handles real-world scale challenges including network latency, device heterogeneity, and computational constraints. This work contributes both theoretical advances in privacy-preserving computation and practical implementation strategies for large-scale consumer technology platforms.",
       citations: 3,
       keywords: ["Differential Privacy", "Federated Learning", "Ethical AI", "Privacy Engineering", "Consumer Technology"],
-      authors: ["Ben Dover", "Dr. Alex Thompson", "Dr. Maya Patel"],
+      authors: ["Liz Mathews", "Dr. Alex Thompson", "Dr. Maya Patel"],
       doi: "pending",
       pages: "pending",
       coAuthors: 2
@@ -66,7 +66,7 @@ const Research = () => {
       fullAbstract: "Global supply chains face increasing volatility from interconnected risks including pandemics, climate change, geopolitical tensions, and technological disruptions. This research develops a comprehensive predictive analytics framework for supply chain resilience, validated through extensive analysis of Apple's global supply network during the COVID-19 pandemic. Our approach integrates multiple data streams: supplier financial health, geographic risk indicators, transportation network status, inventory levels, and external risk factors. The prediction model employs ensemble methods combining time series forecasting for demand patterns, graph neural networks for supply network analysis, and Monte Carlo simulation for risk propagation modeling. We analyzed 18 months of supply chain data covering 847 tier-1 suppliers and 2,400 tier-2 suppliers across 43 countries. The framework successfully predicted 78% of significant disruptions (>$1M impact) with 4-6 weeks advance notice, achieving precision of 0.82 and recall of 0.75. Implementation of proactive mitigation strategies based on model predictions reduced average disruption impact by 35% and improved recovery time by 42%. This research provides both methodological contributions to supply chain analytics and practical implementation guidance for technology companies managing complex global operations.",
       citations: 22,
       keywords: ["Supply Chain Analytics", "Predictive Modeling", "Risk Management", "COVID-19", "Operations Research"],
-      authors: ["Ben Dover", "Prof. Robert Martinez", "Dr. Jennifer Liu", "Dr. Ahmed Hassan"],
+      authors: ["Liz Mathews", "Prof. Robert Martinez", "Dr. Jennifer Liu", "Dr. Ahmed Hassan"],
       doi: "10.1287/opre.2022.2134",
       pages: "1-18",
       coAuthors: 3

@@ -41,7 +41,7 @@ const Navigation = () => {
             to="/" 
             className="text-xl font-display font-semibold text-foreground hover:text-primary transition-colors"
           >
-            Ben Dover
+            Liz Mathews
           </Link>
 
           {/* Desktop Navigation */}
